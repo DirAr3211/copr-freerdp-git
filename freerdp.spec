@@ -27,9 +27,9 @@
 #global _with_webview 1
 
 %global tag 3.27.1
-%global commit 993499447e32344370a16936c8434317952df4e3
+%global commit 2e8c18685447756448e9219021e69c926a3ed6a7
 %global shortcommit %(echo %{commit} | cut -c1-7)
-%global git_date 20260625T121739Z
+%global git_date 20260625T180302Z
 
 Name:           freerdp
 Epoch:          2
